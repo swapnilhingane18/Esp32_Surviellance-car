@@ -542,4 +542,4 @@ void loop()
   Serial.printf("SPIRam Total heap %d, SPIRam Free Heap %d\n", ESP.getPsramSize(), ESP.getFreePsram());
 }
 
-//Code can be modified according to the next requirement
+//Code can be modified according to the next requirement as the modification done
