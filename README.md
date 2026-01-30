@@ -110,6 +110,16 @@ Provides full camera pan-tilt control
 
 Runs completely on ESP32 standalone hardware
 
+Performance Highlights (Added)
+
+Low latency control: WebSocket communication provides near real-time response.
+
+Stable video stream: OV2640 camera optimized for smooth streaming.
+
+Offline reliability: No dependency on cloud or internet services.
+
+Cross-platform compatibility: Works on Android, iOS, Windows, and Linux browsers.
+
 
 📈 Applications
 
