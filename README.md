@@ -82,6 +82,35 @@ Connect your phone or laptop to the ESP32 WiFi network.
 
 Open the IP address in a browser to control the car and view live video.
 
+Learning Outcomes (Added)
+
+Through this project, the following skills were developed:
+
+ESP32 WiFi and camera configuration
+
+Real-time WebSocket communication
+
+Embedded motor and servo control
+
+Frontend-backend integration for IoT systems
+
+Debugging hardware-software interaction
+
+Designing complete end-to-end embedded solutions
+
+Unlike basic robotic cars, this project:
+
+Does not require internet or cloud services
+
+Does not require a mobile application
+
+Uses WebSocket instead of slow HTTP polling
+
+Provides full camera pan-tilt control
+
+Runs completely on ESP32 standalone hardware
+
+
 📈 Applications
 
 Remote surveillance and monitoring
