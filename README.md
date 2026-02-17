@@ -145,8 +145,9 @@ Video recording to SD card
 
 Improved mobile-friendly UI
 
+
 👤 Author
 
 Swapnil Hingane
 Electronics & Telecommunication Engineering
-Interests: Embedded Systems, IoT, ESP32, Robotics
+
